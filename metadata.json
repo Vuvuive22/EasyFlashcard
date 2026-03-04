@@ -1,0 +1,7 @@
+{
+  "name": "Học Tiếng Hàn SRS",
+  "description": "Ứng dụng học từ vựng tiếng Hàn sử dụng phương pháp lặp lại ngắt quãng (Spaced Repetition System).",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
